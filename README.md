@@ -38,10 +38,5 @@ O momento mais importante foi consolidar tudo em uma única tabela master. Junte
 
 ---
 
-### 🚀 Próximos Passos
-O próximo nível deste projeto é transformar esses números em gráficos visuais (DataViz) para que os insights fiquem claros para qualquer pessoa da equipe de decisão.
-
----
-
 ### 🤝 Vamos conversar!
 Estou sempre em busca de aprender novas formas de tratar dados e gerar insights. Se você tiver alguma sugestão ou quiser trocar uma ideia sobre o projeto, sinta-se à vontade para entrar em contato!
